@@ -1,10 +1,19 @@
 {
   "name": "bubbleio-helper",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Node package to interact with Bubble's Data and Workflow API",
   "main": "index.js",
   "types": "index.d.ts",
-  "keywords": ["bubble", "bubble.io", "api", "data-api", "workflow-api", "sdk", "workflow", "data api"],
+  "keywords": [
+    "bubble",
+    "bubble.io",
+    "api",
+    "data-api",
+    "workflow-api",
+    "sdk",
+    "workflow",
+    "data api"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
