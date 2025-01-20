@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/paulogustavopeixoto/bubbleio-helper/issues"
   },
-  "homepage": "https://github.com/paulogustavopeixoto/bubbleio-helper#readme"
+  "homepage": "https://github.com/paulogustavopeixoto/bubbleio-helper#readme",
+  "dependencies": {
+    "axios": "^1.7.9"
+  }
 }
