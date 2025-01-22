@@ -16,7 +16,7 @@ __/\\\\\\\\\\\\\____/\\\________/\\\__/\\\\\\\\\\\\\____/\\\\\\\\\\\\\____/\\\__
 bubbleio-helper is a Node.js package that provides a simple yet powerful interface for interacting with Bubble applications’ Data and Workflow APIs. It allows you to create, retrieve, update, and delete Bubble “things” (database records), as well as trigger Workflow endpoints. Designed to be highly configurable, bubbleio-helper makes it easy to integrate Bubble’s server-side functionality into your Node.js projects.
 
 ## Installation
-To integrate Cipher Factory into your project, run the following command:
+To integrate bubbleio-helper into your project, run the following command:
 
 ```bash
 npm install bubbleio-helper --save
